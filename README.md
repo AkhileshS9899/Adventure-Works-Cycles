@@ -1,4 +1,5 @@
-Adventure Works Cycles – Sales & Customer Insights
+Adventure Works Cycles – Sales & Customer Insights:
+
 🔹 Project Overview
 In this project, I explored the Adventure Works Cycles dataset and turned raw sales data into meaningful insights. Using Tableau, Power BI, and Excel, I built dashboards that help the company understand
 * Who their best (and least profitable) customers are.
