@@ -1,82 +1,74 @@
 # Adventure Works Cycles – Sales & Customer Analytics Dashboard
-**Turning raw sales data into actionable insights using Tableau, Power BI, and Excel.**
 
 ---
 
 ## Executive Summary
-This project analyzed Adventure Works Cycles’ sales and customer data to provide actionable insights for decision-makers.  
-- **Goal:** Identify top-performing customers and products, and understand sales trends across regions and time.  
-- **Business Problem:** The company needed a data-driven understanding of sales, customers, and product performance to target key customers, expand product availability online, and reduce costs.  
-- **Solution/Approach:** Cleaned and transformed datasets, performed exploratory data analysis, and built interactive dashboards using Tableau, Power BI, and Excel.  
-- **Outcome/Impact:** Identified top and bottom-performing customers, highlighted profit-driving products, and visualized sales trends across regions and time periods, enabling data-driven decisions.
 
-**Visual Overview:**  
-![Project Overview](images/project_overview.png)  
-*Snapshot of combined dashboards showing sales and customer insights.*
+Using *SQL, Excel, Tableau, and Power BI*, I analyzed Adventure Works Cycles’ sales and customer data to uncover actionable insights. After identifying the largest opportunities to increase revenue and customer engagement, I recommend that the company focuses on top-performing products and high-value customers while optimizing low-performing segments:
+
+1. Target high-profit customers with tailored marketing campaigns.  
+2. Optimize inventory and production for top-selling product lines.  
+3. Monitor and improve engagement with low-profit customers.
 
 ---
 
 ## Business Problem
-Adventure Works Cycles faced several challenges:  
-- Targeting their best customers with precision.  
-- Expanding product availability online.  
-- Reducing production and sales costs.  
 
-A clear, data-driven analysis was required to understand:  
-- Which customers generate the most profit.  
-- Which products and sub-products are the most profitable.  
-- Sales and profit trends across time, regions, and product lines.  
+Adventure Works Cycles, a multinational bicycle manufacturer, noticed challenges in understanding which products and customers contribute most to revenue and profit. Without a clear data-driven view, it was difficult to:  
 
-**Problem Visualization:**  
-![Business Problem](images/business_problem.png)  
-*Chart showing high vs low-profit customers and regions.*
+- Identify high-value customers and product lines.  
+- Determine sales and profit trends across regions and time periods.  
+- Allocate marketing and production resources efficiently.  
+
+*(Optional: Insert your "Customer Segmentation / Sales Funnel" image here.)*
 
 ---
 
 ## Methodology
-1. **Data Collection:** Gathered sales, customer, and product datasets from Adventure Works Cycles.  
-2. **Data Cleaning & Preparation:** Handled missing values, corrected inconsistencies, and formatted data for analysis in Tableau, Power BI, and Excel.  
-3. **Exploratory Data Analysis (EDA):** Examined sales and profit trends over years, quarters, and months; analyzed product and sub-product performance; segmented customers by profitability.  
-4. **Analysis & Dashboards:**  
-   - **Profit Analysis Dashboard:** Yearly/quarterly profits, country-wise contributions, and product category performance.  
-     ![Profit Dashboard](images/profit_dashboard.png)  
-   - **Top/Bottom Analysis Dashboard:** Highlights most and least profitable products and customers.  
-     ![Top Bottom Dashboard](images/top_bottom_dashboard.png)  
-5. **Validation & Insights:** Cross-checked trends to ensure accuracy and reliability of insights.
+
+1. Extracted, cleaned, and transformed sales, customer, and product datasets using *SQL* and *Excel*.  
+2. Conducted exploratory data analysis (EDA) to identify trends in sales, profit, and customer behavior.  
+3. Built interactive dashboards in *Power BI* and *Tableau* to visualize profits, top/bottom customers, and product performance.  
+4. Segmented customers and products to highlight top performers and areas for improvement.
 
 ---
 
-## Skills & Tools
-- **Languages:** SQL (Joins, Aggregations, Window Functions, CTEs, Subqueries)  
-- **Excel:** Pivot Tables, VLOOKUP/XLOOKUP, SUMIFS, Conditional Formatting, Charts & Graphs, Data Cleaning, Power Query  
-- **Power BI:** Interactive Dashboards, Slicers, Filters, DAX Measures, Data Modeling, KPIs  
-- **Tableau:** Dashboards, Filters, Parameters, Calculated Fields, Trend Analysis, Maps & Charts  
-- **Core Skills:** Data visualization, business analysis, critical thinking, problem-solving
+## Skills
+
+* *SQL:* Joins, Aggregations  
+* *Excel:* Pivot Tables, VLOOKUP/XLOOKUP, Charts  
+* *Power BI:* Dashboards, DAX Measures, Data Modeling  
+* *Tableau:* Dashboards, Filters, Calculated Fields  
+* *Core Skills:* Data visualization, business analysis, problem-solving
 
 ---
 
-## Results & Business Recommendations
-- **Key Insights:**  
-  - The US and Australia contribute over 60% of total profits.  
-  - Road Bikes (47%) and Mountain Bikes (38%) dominate profit share.  
-  - A small group of customers generate the majority of profits, while some contribute almost nothing.  
-  - 2013 was the peak profit year, with Q2 showing the highest quarterly profits.  
+## Results & Business Recommendation
 
-**Visual Results:**  
-![Profit by Region](images/profit_region.png)  
-![Top Products](images/top_products.png)  
+The analysis and dashboards provided stakeholders with visibility into customer and product performance:  
 
-**Recommendations:**  
-- Focus marketing and sales efforts on top-performing customers and products.  
-- Optimize production and inventory for high-profit product lines.  
-- Monitor low-performing products and customers to identify cost-saving opportunities.
+- The US and Australia contribute over 60% of total profits.  
+- Road Bikes (47%) and Mountain Bikes (38%) dominate profit share.  
+- A small segment of customers generates most of the profit, while some contribute almost nothing.  
+- 2013 was the peak profit year, with Q2 showing the highest quarterly profits.  
+
+**Visuals:** *(Insert charts and dashboards here, e.g., Profit by Region, Top Products, Profit Dashboard, Top/Bottom Analysis Dashboard.)*  
+
+Based on these insights, I recommend the following actions:  
+
+1. Focus marketing campaigns on top-performing customers and products.  
+2. Optimize production and inventory for high-profit product lines.  
+3. Monitor low-performing customers and products to identify cost-saving opportunities.  
+4. Use dashboards to empower stakeholders to self-serve analytics and reduce ad hoc requests.
 
 ---
 
 ## Next Steps
-- Expand dashboards to include online sales channels for broader insights.  
-- Perform predictive analysis to forecast future sales trends.  
-- Conduct A/B testing for marketing strategies targeting top customers.  
-- Integrate additional datasets such as customer demographics and seasonal trends.  
-- Deploy dashboards as interactive web applications for real-time insights.
+
+1. Expand dashboards to include online sales channels for broader insights.  
+2. Conduct predictive analysis to forecast future sales trends.  
+3. Implement A/B testing for marketing strategies targeting top customers.  
+4. Integrate additional datasets such as customer demographics and seasonal trends.  
+5. Deploy dashboards as interactive web applications for real-time insights.
+
 
