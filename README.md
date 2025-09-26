@@ -1,6 +1,6 @@
 # Adventure Works Cycles – Sales & Customer Analytics Dashboard
 
----
+
 
 ## Executive Summary
 
@@ -10,7 +10,7 @@ Using *SQL, Excel, Tableau, and Power BI*, I analyzed Adventure Works Cycles’ 
 2. Optimize inventory and production for top-selling product lines.  
 3. Monitor and improve engagement with low-profit customers.
 
----
+
 
 ## Business Problem
 
@@ -22,7 +22,6 @@ Adventure Works Cycles, a multinational bicycle manufacturer, noticed challenges
 
 *(Optional: Insert your "Customer Segmentation / Sales Funnel" image here.)*
 
----
 
 ## Methodology
 
@@ -31,7 +30,7 @@ Adventure Works Cycles, a multinational bicycle manufacturer, noticed challenges
 3. Built interactive dashboards in *Power BI* and *Tableau* to visualize profits, top/bottom customers, and product performance.  
 4. Segmented customers and products to highlight top performers and areas for improvement.
 
----
+
 
 ## Skills
 
@@ -41,7 +40,7 @@ Adventure Works Cycles, a multinational bicycle manufacturer, noticed challenges
 * *Tableau:* Dashboards, Filters, Calculated Fields  
 * *Core Skills:* Data visualization, business analysis, problem-solving
 
----
+
 
 ## Results & Business Recommendation
 
@@ -52,7 +51,8 @@ The analysis and dashboards provided stakeholders with visibility into customer 
 - A small segment of customers generates most of the profit, while some contribute almost nothing.  
 - 2013 was the peak profit year, with Q2 showing the highest quarterly profits.  
 
-**Visuals:** *(Insert charts and dashboards here, e.g., Profit by Region, Top Products, Profit Dashboard, Top/Bottom Analysis Dashboard.)*  
+**Visuals:** ![image alt](https://github.com/AkhileshS9899/Adventure-Works-Cycles/blob/51eb6a2c78d7c62ea987fcd23899af2532070581/Screenshot%202025-08-21%20215402.png)
+            ![image alt](https://github.com/AkhileshS9899/Adventure-Works-Cycles/blob/51eb6a2c78d7c62ea987fcd23899af2532070581/Screenshot%202025-08-21%20215410.png)
 
 Based on these insights, I recommend the following actions:  
 
@@ -61,7 +61,7 @@ Based on these insights, I recommend the following actions:
 3. Monitor low-performing customers and products to identify cost-saving opportunities.  
 4. Use dashboards to empower stakeholders to self-serve analytics and reduce ad hoc requests.
 
----
+
 
 ## Next Steps
 
